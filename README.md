@@ -110,7 +110,7 @@ Built a Python ETL pipeline into PostgreSQL, RFM segmentation framework (Champio
 
 ## Currently
 
-- 🎓 M.Sc. in IT Management (E-Business) · Shahid Beheshti University, Tehran — GPA 17.94/20
+- 🎓 M.Sc. in IT Management (E-Business) · Shahid Beheshti University, Tehran
 - 💼 AI Developer @ Barmana — building LLM retrieval systems in production
 - 🔍 Open to **Data Engineering**, **AI/ML Engineering**, and **Analytics Engineering** opportunities
 
