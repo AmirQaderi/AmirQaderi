@@ -72,6 +72,15 @@ Built a full-stack RAG pipeline over a mixed Persian/English document corpus. Im
 
 ---
 
+### ⚡ Real-Time Fraud Detection Pipeline
+> End-to-end streaming architecture for real-time financial transaction monitoring and fraud alerting.
+
+Built a decoupled Kafka → Spark → PostgreSQL pipeline capable of handling high-throughput transaction streams. Implemented a tier-one deterministic rule engine with micro-batch processing, secure credential injection via environment variables, and a JDBC sink writing flagged records to an auditable `fraud_alerts` table. Containerized full infrastructure with single-command spin-up via Docker Compose.
+
+`Apache Spark` `Apache Kafka` `Confluent Platform` `PostgreSQL` `PySpark` `Docker` `Docker Compose` `Python`
+
+---
+
 ### 🏗️ [Olist Modern Data Stack Pipeline](https://github.com/AmirQaderi/olist-modern-data-stack)
 
 > Production-grade ELT pipeline with automated orchestration and data quality contracts.
