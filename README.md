@@ -111,13 +111,13 @@ Built a Python ETL pipeline into PostgreSQL, RFM segmentation framework (Champio
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirQaderi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirQaderi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AmirQaderi&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AmirQaderi&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
